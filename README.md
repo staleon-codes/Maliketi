@@ -2,7 +2,7 @@ Project Name: Maliketi
 Introduction
 This repository is for the ALX building portfolio its a group project that i am doing with peter McMillan. The application being built is a web based online store which aims to solve the challenges that zambians with finding proucts online.The application will connect buyers and sellers and help facilitate end to end secure transactions.
 The project is currently deployed on a demo subddomain and can be accessed on this URL: https://maliketi.numericalheights.com/
-The project blog article can be accessed on the following URL: 
+The project blog article can be accessed on the following URL: https://maliketi.numericalheights.com/2024/03/20/maliketi-bridging-buyers-and-sellers-in-zambia/
 Authors LinkedIn URL for Peter McMillan is https://www.linkedin.com/in/peter-mcmillan-176159279/
 Authors LinkedIn URL for Leonard Mbasela is https://www.linkedin.com/in/leonard-f-mbasela-74b599169/
 Installation
